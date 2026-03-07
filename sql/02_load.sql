@@ -9,6 +9,12 @@ Purpose:
 Notes:
   - order_reviews dataset was pre-cleaned to normalize escaped quotes
   - No constraints enforced at this stage (raw layer)
+  
+  
+-- IMPORTANT:
+-- Update the path below to match the location of the project on your system.
+-- The CSV files are located in the repository folder:
+-- /data/raw and /data/cleaned
 
 Author: Juan Andrés González Moncada
 -------------------------------------------------------
